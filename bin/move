@@ -10,4 +10,4 @@ input = gets.strip
 
 input_to_index(input)
 
-move.rb(board, 0, index)
+move(board, user_input, char = "X")
